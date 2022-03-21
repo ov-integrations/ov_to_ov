@@ -1,0 +1,4 @@
+command = python3 onevizion_to_onevizion.py -v -p settings.json
+settings_file_name = settings.json
+default_schedule = 0/15 0 0 * * ?
+read_from_stdout = true
