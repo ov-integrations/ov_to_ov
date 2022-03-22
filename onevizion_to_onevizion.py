@@ -13,7 +13,6 @@ import traceback
 import datetime
 import shutil
 import subprocess
-import integration
 import pandas as pd
 from collections import OrderedDict
 
